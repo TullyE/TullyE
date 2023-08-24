@@ -1,7 +1,7 @@
 Hello there! My name is Tully! I just graduated High School and am heading to UCSC for CS! I am super excited about code!
-My coolest projects that i've done have been:
-Github.com/TullyE/ArduinoWOL <-- has a beautiful readme and incredible documentation
-Github.com/TullyE/PhysicsSimulation <-- I made for my physics class and it's pretty cool. Physics is hard man
+My coolest projects that i've done have been:  
+Github.com/TullyE/ArduinoWOL <-- has a beautiful readme and incredible documentation  
+Github.com/TullyE/PhysicsSimulation <-- I made for my physics class and it's pretty cool. Physics is hard man  
 
 
 
